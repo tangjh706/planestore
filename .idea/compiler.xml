@@ -30,7 +30,6 @@
       <module name="jewelstore" target="1.8" />
       <module name="musicstore" target="1.8" />
       <module name="phonestore" target="1.8" />
-      <module name="planestore" target="1.8" />
       <module name="shoestore" target="1.8" />
       <module name="snackstore" target="1.8" />
       <module name="sportstore" target="1.8" />
