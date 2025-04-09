@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="planestore" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="artwarestore" target="1.8" />
+      <module name="babystore" target="1.8" />
+      <module name="badminton" target="1.8" />
+      <module name="bagstore" target="1.8" />
+      <module name="bookstore" target="1.8" />
+      <module name="cakestore" target="1.8" />
+      <module name="campusidle" target="1.8" />
+      <module name="cartoonstore" target="1.8" />
+      <module name="clothingstore" target="1.8" />
+      <module name="computerstore" target="1.8" />
+      <module name="cosmeticsstore" target="1.8" />
+      <module name="farmstore" target="1.8" />
+      <module name="filmstore" target="1.8" />
+      <module name="flowerstore" target="1.8" />
+      <module name="FruitSales" target="1.8" />
+      <module name="furniturestore" target="1.8" />
+      <module name="goodstore" target="1.8" />
+      <module name="jewelstore" target="1.8" />
+      <module name="musicstore" target="1.8" />
+      <module name="phonestore" target="1.8" />
+      <module name="planestore" target="1.8" />
+      <module name="shoestore" target="1.8" />
+      <module name="snackstore" target="1.8" />
+      <module name="sportstore" target="1.8" />
+      <module name="supermarketstore" target="1.8" />
+      <module name="takingorders" target="1.8" />
+      <module name="teastore" target="1.8" />
+      <module name="toystore" target="1.8" />
+      <module name="travelstore" target="1.8" />
+      <module name="vegetablestore" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="FruitSales" options="-parameters" />
+      <module name="artwarestore" options="-parameters" />
+      <module name="babystore" options="-parameters" />
+      <module name="badminton" options="-parameters" />
+      <module name="bagstore" options="-parameters" />
+      <module name="bookstore" options="-parameters" />
+      <module name="cakestore" options="-parameters" />
+      <module name="campusidle" options="-parameters" />
+      <module name="cartoonstore" options="-parameters" />
+      <module name="clothingstore" options="-parameters" />
+      <module name="computerstore" options="-parameters" />
+      <module name="cosmeticsstore" options="-parameters" />
+      <module name="farmstore" options="-parameters" />
+      <module name="filmstore" options="-parameters" />
+      <module name="flowerstore" options="-parameters" />
+      <module name="furniturestore" options="-parameters" />
+      <module name="goodstore" options="-parameters" />
+      <module name="jewelstore" options="-parameters" />
+      <module name="musicstore" options="-parameters" />
+      <module name="phonestore" options="-parameters" />
+      <module name="planestore" options="-parameters" />
+      <module name="shoestore" options="-parameters" />
+      <module name="snackstore" options="-parameters" />
+      <module name="sportstore" options="-parameters" />
+      <module name="supermarketstore" options="-parameters" />
+      <module name="takingorders" options="-parameters" />
+      <module name="teastore" options="-parameters" />
+      <module name="toystore" options="-parameters" />
+      <module name="travelstore" options="-parameters" />
+      <module name="vegetablestore" options="-parameters" />
+    </option>
+  </component>
+</project>
